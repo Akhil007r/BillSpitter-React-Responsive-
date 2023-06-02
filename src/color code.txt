@@ -1,0 +1,11 @@
+backgroungColor:#C5E4E7
+
+
+// tip input font color
+fontColor:#A0B8B8
+buttoncolor:#000F0F
+
+// calculator container
+containerBackground:#00474B;
+inputBackgroundColor:#F3F8FB;
+buttoncolor:#082723
